@@ -1,0 +1,15 @@
+{
+  "name": "lektion10-nodejs-databas-first",
+  "version": "1.0.0",
+  "description": "Testverktyg - Första lektionen inom nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fredrik",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^8.3.0"
+  }
+}
